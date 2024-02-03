@@ -9,7 +9,7 @@ Requisitos previos:
 ## Instrucciones para clonar e iniciar el proyecto en local:
 1. Abre una terminal o cmd, dependiendo del sistema operativo que tengas. 
 2. Dirígete a la carpeta donde desees guardar el proyecto.
-3. Ejecuta el siguiente comando para clonar este repositorio: git clone https://github.com/Brayan-asj/DeliverExpress. 
+3. Ejecuta el siguiente comando para clonar este repositorio: git clone https://github.com/Staramper/Sneakers.git. 
 
 ### Principalmente:
 
